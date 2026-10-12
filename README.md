@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi! I'm Joshua, a Computer Engineering student interested in **software development, mobile applications, and embedded systems**.<br><br>💻 Currently learning:<br><br>* Android & mobile app development<br>* Kotlin, Java, HTML, CSS & JavaScript<br>* Firebase & cloud databases<br>* Git & GitHub<br><br>🔧 I also enjoy working with:<br><br>* Arduino & ESP32<br>* IoT and electronics projects<br>* UI/UX design<br>* System development and research<br><br>🚀 I'm currently building projects to improve my programming, problem-solving, and system development skills.
+<br>Hi! I'm Joshua, a Computer Engineering student interested in **software development, mobile applications, and embedded systems**.<br><br>💻 Currently learning:<br><br>* Android & mobile app development<br>* Kotlin, Java, HTML, CSS & JavaScript<br>* Firebase & cloud databases<br>* Git & GitHub<br><br>🔧 
 
 
 ## 🌐 Socials:
